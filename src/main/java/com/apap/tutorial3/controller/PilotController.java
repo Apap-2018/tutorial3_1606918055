@@ -16,7 +16,7 @@ public class PilotController {
     private PilotService pilotService;
 
     private static String redirectTo404() {
-        return "http404";
+        return "redirect:/404";
     }
 
     @RequestMapping("/pilot/add")
