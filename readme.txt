@@ -5,4 +5,4 @@
 4. Tidak, karena kita tidak me-record data secara persistent di db sehingga ketika server direstart
    data akan kembali kosong.
 5. Ya muncul di dalam list.
-6. Ya semua data car muncul, dengan asumsi data yang dimasukan setelah server start terakhir.
+6. Ya semua data pilot muncul, dengan asumsi data yang dimasukan setelah server start terakhir.
